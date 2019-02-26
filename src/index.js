@@ -18,6 +18,7 @@ module.exports = function makeExchange(currency) {
     });
     return result;
 }
+
 config = [
     {label:"H", value: 50},
     {label:"Q", value: 25},
